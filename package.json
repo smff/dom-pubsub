@@ -20,6 +20,18 @@
   "bugs": {
     "url": "https://github.com/smff/dom-pubsub/issues"
   },
+  "keywords": [
+    "trigger",
+    "dispatch",
+    "event",
+    "EventEmitter",
+    "dispatcher",
+    "eventdispatcher",
+    "emit",
+    "emitter",
+    "observer",
+    "DOM"
+  ],
   "homepage": "https://github.com/smff/dom-pubsub#readme",
   "dependencies": {},
   "devDependencies": {
