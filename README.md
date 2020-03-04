@@ -1,8 +1,9 @@
 dom-pubsub
 ===
+```
+publishDOM('ACTION_NAME', data);
 
-publishDOM('NAME', data);
-
-subscribeDOM('NAME', (data) => {
+subscribeDOM('ACTION_NAME', (data) => {
     // any action
 })
+```
