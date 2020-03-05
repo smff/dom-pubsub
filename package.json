@@ -1,7 +1,7 @@
 {
   "name": "dom-pubsub",
   "version": "0.0.4",
-  "description": "",
+  "description": "Easy pubsub for communication via DOM between elements (HTML / React / Angular, Vue)",
   "main": "lib/index.js",
   "scripts": {
     "build": "tsc",
@@ -28,7 +28,10 @@
     "emit",
     "emitter",
     "observer",
-    "DOM"
+    "DOM",
+    "Angular",
+    "Vue",
+    "React"
   ],
   "homepage": "https://github.com/smff/dom-pubsub#readme",
   "dependencies": {},

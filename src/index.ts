@@ -1,4 +1,5 @@
 // inspired by https://github.com/luanre
+// thanks to https://github.com/dkamyshov
 
 const noop = () => {};
 
