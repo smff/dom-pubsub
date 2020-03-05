@@ -1,2 +1,3 @@
-export declare const publishDOM: (name: string, data: any) => void;
-export declare const subscribeDOM: (name: string, callback: any) => void;
+export declare const publishDOM: (name: string, payload: any) => void;
+export declare const subscribeDOM: (name: string, listener: (payload: any) => void) => () => void;
+//# sourceMappingURL=index.d.ts.map
